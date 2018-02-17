@@ -13,3 +13,4 @@ The thoery avoids survival intelligence, universal social intelligence, sexual i
 
 ## Tech stack
 Thw website/application is built in node.js, react, and angular--for easy front-end UI/UX experience.
+And also this a business decision, because half of the new front-end apps are this stack.
