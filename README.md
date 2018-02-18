@@ -12,5 +12,4 @@ It is on non-universal human social intelligence and personality types.
 The theory avoids survival intelligence, universal social intelligence, sexual intelligence, and personal experience.
 
 ## Tech stack
-The website/application is built in node.js, react, and angular--for easy front-end UI/UX experience.
-And also this a business decision, because half of the new front-end apps are this stack.
+The website/application is built in node.js and react--for a modern mobile UI/UX experience.
